@@ -58,8 +58,8 @@ body {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 35px;
-    height: 35px;
+    width: 36px;
+    height: 36px;
     background: transparent;
     border: 2px solid #0ef;
     border-radius: 50%;
@@ -75,6 +75,8 @@ body {
     color: black;
     box-shadow: 0 0 20px #0ef;
 }
+
+
 
 
 
